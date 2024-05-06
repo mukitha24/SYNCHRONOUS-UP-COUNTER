@@ -69,4 +69,6 @@ endmodule
 ![TRUTHTABLE](https://github.com/mukitha24/SYNCHRONOUS-UP-COUNTER/assets/154068225/0818ed71-6bbf-4a44-9407-6275c10d8a3b)
 
 **RESULTS**
-Hence a 4 bit synchronous up counter is implemented correctly.
+ 
+ 
+ Hence a 4 bit synchronous up counter is implemented correctly.
